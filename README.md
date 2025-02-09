@@ -10,4 +10,18 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23F8BBD0.svg?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%23F48FB1.svg?style=flat&logo=css3&logoColor=white)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="footer">
+        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" 
+             alt="wave go brr by aivan" />
+    </div>
+</body>
+</html>
+
 
