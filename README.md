@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=FFB6C1&size=24&center=true&vCenter=true&lines=Aspiring+Software+Engineer;Cybersecurity+Enthusiast;Lifelong+Learner;UI%2FUX+Lover;Welcome+to+my+GitHub!"/>
 </p>
 
-<img src="https://i.pinimg.com/originals/51/04/43/51044308bbd09742b8f5e029971dab21.gif" height="80" style="display:block;"> 
 
 ### Learning...
 <p align="left">
@@ -18,5 +17,4 @@
   <img src="https://img.shields.io/badge/Git-%23F9A1B7.svg?style=for-the-badge&logo=git&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/JavaScript-%23FFB6C1.svg?style=for-the-badge&logo=javascript&logoColor=white" height="40">
 </p>
-
 
